@@ -1,0 +1,8 @@
+Date,Sales,CustomerName,Product,Quantity,Price,Notes
+,449.0,Thomas,Laptop,three,19.99,urgent
+,112.0,Eve,Laptop,1,free,ok
+2024-04-09,224.0,Paula,Laptop,1,19.99,needs review
+,270.0,Ronnie,Laptop,three,49.99,needs review
+,371.0,Tim,Tablet,4,free,needs review
+,389.0,Crystie,Laptop,2,19.99,needs review
+,440.0,Amy,Mouse,3,99.99,ok

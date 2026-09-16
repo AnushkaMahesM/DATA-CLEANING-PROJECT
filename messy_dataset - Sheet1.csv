@@ -1,0 +1,126 @@
+Date,Sales,CustomerName,Product,Quantity,Price,Notes
+########,N/A,Bob,Phone,,,ok
+########,,Evan,Laptop,three,99.99,ok
+,,,,4,,Double check
+2/5/2024,,Sam,Laptop,1,19.99,urgent
+########,214,Tim,,2,99.99,
+########,,Joanna,,3,free,
+########,,Mark,Keyboard,2,19.99,ok
+########,N/A,,Tablet,2,free,
+9/6/2024,,Bobbie,Tablet,3,49.99,
+1/7/2024,,Alice,Tablet,2,19.99,Double check
+########,,Jack,Keyboard,three,99.99,urgent
+,,Fran,Keyboard,three,99.99,Double check
+9/9/2024,,Amanda,,5,,Double check
+########,188,Tom,,,19.99,ok
+########,360,Anna,Phone,,49.99,needs review
+8/1/2024,,,,4,,urgent
+########,N/A,,Laptop,1,,
+########,,Vanessa,Phone,three,free,urgent
+########,,Charlie,Tablet,5,,needs review
+5/3/2024,,Diana,,4,19.99,
+########,,Evan,Keyboard,2,,ok
+7/9/2024,128,Emma,,4,free,needs review
+########,,Susan,Keyboard,5,,Double check
+########,449,Thomas,Laptop,three,19.99,urgent
+########,,Jackie,Phone,three,,ok
+9/7/2024,,,Phone,,free,needs review
+3/6/2024,,Crystal,Mouse,,free,
+,N/A,Dora,Keyboard,5,19.99,Double check
+########,,Alica,Keyboard,,free,ok
+########,234,,Phone,three,99.99,needs review
+########,326,,Mouse,three,19.99,
+########,,Diana,Tablet,2,49.99,ok
+5/1/2024,,Tom,Keyboard,4,,ok
+########,N/A,Tammy,,4,,ok
+3/6/2024,N/A,Paul,Tablet,3,free,needs review
+########,,Elijah,Mouse,5,19.99,Double check
+1/1/2024,,Candy,Mouse,,99.99,Double check
+,,,Laptop,three,99.99,
+########,,Fank,Mouse,1,19.99,Double check
+6/2/2024,,David,Mouse,4,,ok
+########,N/A,Anthony,Tablet,3,,Double check
+4/5/2024,,Alice,Tablet,3,,
+########,112,Eve,Laptop,1,free,ok
+1/1/2024,381,,Mouse,1,19.99,ok
+2/6/2024,N/A,,Mouse,,19.99,ok
+########,,Nicole,Mouse,three,,
+########,,Melissa,,4,,needs review
+4/2/2024,,Amy,Tablet,5,99.99,ok
+########,N/A,Doreen,Tablet,2,,urgent
+########,342,Dennis,,4,19.99,urgent
+########,N/A,,Laptop,3,99.99,needs review
+9/9/2024,,Jacob,,,49.99,
+4/9/2024,224,Paula,Laptop,1,19.99,needs review
+2/6/2024,N/A,Arron,Phone,1,19.99,Double check
+########,,Tommy,Keyboard,,19.99,needs review
+########,,Sammy,Mouse,three,49.99,Double check
+########,N/A,Evelyn,,2,free,ok
+,494,,Tablet,4,free,Double check
+########,417,Diana,Mouse,5,,ok
+8/1/2024,324,Alice,Keyboard,,,Double check
+########,,Tom,,,19.99,
+########,N/A,,Phone,2,49.99,
+########,266,Jack,Laptop,5,99.99,
+########,270,Ronnie,Laptop,three,49.99,needs review
+,,Bill,Tablet,three,free,Double check
+,,,Keyboard,three,free,Double check
+########,N/A,Jerrid,,4,49.99,urgent
+########,427,Joanna,Tablet,three,,Double check
+8/9/2024,N/A,,,three,99.99,Double check
+########,382,Anton,Tablet,1,,needs review
+########,N/A,,Laptop,1,,Double check
+########,,Dora,Phone,3,19.99,Double check
+9/3/2024,,,,5,,needs review
+########,N/A,Yoldanda,Laptop,2,,urgent
+########,N/A,Emmie,,1,,
+########,N/A,Aleia,Tablet,three,49.99,
+########,355,Bryan,Laptop,,,needs review
+6/4/2024,N/A,,Keyboard,3,49.99,ok
+,,Charlie,Tablet,2,free,needs review
+,N/A,Evan,,,49.99,ok
+########,N/A,Alice,Mouse,,49.99,
+########,,,Keyboard,1,19.99,urgent
+########,316,,Tablet,1,99.99,
+########,371,Tim,Tablet,4,free,needs review
+########,,Alberta,Laptop,3,,Double check
+########,,Chris,Keyboard,1,free,needs review
+########,,Tina,Phone,4,,urgent
+########,N/A,Christina,Laptop,5,49.99,
+2/7/2024,,,Tablet,1,,
+########,,Amy,Mouse,1,,Double check
+,,Bob,Phone,2,99.99,
+########,,Dianna,Phone,2,99.99,Double check
+9/1/2024,N/A,Diana,Keyboard,5,49.99,
+########,,Alice,Phone,3,,ok
+,67,Bob,,,,urgent
+8/8/2024,N/A,Evan,Phone,3,19.99,ok
+,,,Mouse,4,,ok
+########,,Jack,Keyboard,three,19.99,
+########,N/A,Paul,Tablet,,49.99,
+########,N/A,,Laptop,4,,
+########,,Fran,Keyboard,5,,Double check
+########,389,Crystie,Laptop,2,19.99,needs review
+########,179,Linda,Laptop,5,,urgent
+########,,Charlie,Keyboard,1,,needs review
+2/4/2024,N/A,Alice,Laptop,4,,
+########,,,Laptop,1,19.99,
+,,Diana,Keyboard,three,49.99,urgent
+########,236,,,three,,urgent
+8/3/2024,414,Mary,Mouse,,19.99,needs review
+########,376,Stepanie,Mouse,4,,
+########,N/A,Charlie,Keyboard,3,19.99,Double check
+########,N/A,Emma,Mouse,2,,urgent
+,N/A,,Tablet,3,,needs review
+########,N/A,,Mouse,3,,
+5/1/2024,,Patty,,1,,ok
+########,,Rose,Keyboard,three,,ok
+########,440,Amy,Mouse,3,99.99,ok
+########,490,,Phone,3,,needs review
+,N/A,Alice,Keyboard,2,free,Double check
+########,N/A,Evan,,4,free,ok
+2/6/2024,N/A,,Mouse,,19.99,ok
+4/2/2024,,Timmy,Tablet,5,99.99,ok
+########,214,Evan,,2,99.99,
+########,,Alice,Mouse,three,49.99,Double check
+3/6/2024,,Bob,Mouse,,free,
